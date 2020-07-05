@@ -1,0 +1,6 @@
+
+ Important
+    - textContent => to change the text in this element (For plain text, no HTML)
+    - innerHTML (for HTML)
+    - addEventListener("event type", "case")
+    - Callback func, the function that we pass into another function as an argument
